@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/stackBlock/tme/issues"
   },
-  "homepage": "https://github.com/stackBlock/tme#readme"
+  "homepage": "https://github.com/stackBlock/tme#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "jsdom": "^15.2.1"
+  }
 }
